@@ -1,0 +1,12 @@
+/Users/michellevicente/Desktop/Proyecto2/bin/Debug/netcoreapp3.1/Proyecto2.deps.json
+/Users/michellevicente/Desktop/Proyecto2/bin/Debug/netcoreapp3.1/Proyecto2.runtimeconfig.json
+/Users/michellevicente/Desktop/Proyecto2/bin/Debug/netcoreapp3.1/Proyecto2.runtimeconfig.dev.json
+/Users/michellevicente/Desktop/Proyecto2/bin/Debug/netcoreapp3.1/Proyecto2.dll
+/Users/michellevicente/Desktop/Proyecto2/bin/Debug/netcoreapp3.1/Proyecto2.pdb
+/Users/michellevicente/Desktop/Proyecto2/obj/Debug/netcoreapp3.1/Proyecto2.csprojAssemblyReference.cache
+/Users/michellevicente/Desktop/Proyecto2/obj/Debug/netcoreapp3.1/Proyecto2.AssemblyInfoInputs.cache
+/Users/michellevicente/Desktop/Proyecto2/obj/Debug/netcoreapp3.1/Proyecto2.AssemblyInfo.cs
+/Users/michellevicente/Desktop/Proyecto2/obj/Debug/netcoreapp3.1/Proyecto2.csproj.CoreCompileInputs.cache
+/Users/michellevicente/Desktop/Proyecto2/obj/Debug/netcoreapp3.1/Proyecto2.dll
+/Users/michellevicente/Desktop/Proyecto2/obj/Debug/netcoreapp3.1/Proyecto2.pdb
+/Users/michellevicente/Desktop/Proyecto2/obj/Debug/netcoreapp3.1/Proyecto2.genruntimeconfig.cache
